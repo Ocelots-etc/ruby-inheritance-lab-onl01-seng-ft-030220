@@ -8,5 +8,5 @@ class Teacher < User
     r= rand(@knowledge.length)
     @knowledge[r]
   end
-  
+
 end
